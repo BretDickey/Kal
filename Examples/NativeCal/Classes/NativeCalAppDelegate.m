@@ -24,7 +24,7 @@
    * instead of -[KalViewController init].
    */
   kal = [[KalViewController alloc] init];
-  kal.title = @"NativeCal2";
+  kal.title = @"NativeCal";
 
   /*
    *    Kal Configuration
